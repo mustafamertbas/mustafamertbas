@@ -1,12 +1,91 @@
+<div align="left">
 
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/d) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/d) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/d) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/d) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/d) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/d) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@d) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/d) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/d) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/d) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/d) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@d) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/d) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/d) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@d) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/d) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@d) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:d) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=mustafamertbas&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=mustafamertbas&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=mustafamertbas&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# Mustafa Mert
+
+Geliştirme süreçlerini optimize eden araçlar, modern arayüzler ve bağımsız projeler geliştiren bir yazılım meraklısı. Temiz kod, self-hosted altyapılar ve kullanıcı odaklı mimariler üzerine odaklanıyorum.
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=mustafamertbas&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 📌 Odak Noktaları & Çalışmalar
+
+- 🔭 Şu anda **bağımsız mobil ve masaüstü yazılımlar** üzerinde çalışıyorum.
+- ⚙️ **Linux, Docker ve Self-Hosted sistemler** ile homelab/sunucu mimarilerini optimize ediyorum.
+- 🎨 **Minimalist, yüksek kontrastlı UI/UX** standartları (Inset grouped, OLED karanlık mod) tasarlıyorum.
+- 💬 Sistem konfigürasyonları, veritabanı optimizasyonu veya yeni projeler üzerine fikir alışverişine açığım.
+
+---
+
+### 🛠️ Teknolojiler & Araçlar
+
+<table>
+  <tr>
+    <td width="25%" valign="top">
+      <strong>Diller</strong>
+      <ul>
+        <li>Kotlin</li>
+        <li>Python</li>
+        <li>Bash / Shell</li>
+        <li>SQL</li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <strong>Altyapı & Sistem</strong>
+      <ul>
+        <li>Linux (Arch / Ubuntu)</li>
+        <li>Docker / Compose</li>
+        <li>Coolify</li>
+        <li>Tailscale / WireGuard</li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <strong>Veri & Araçlar</strong>
+      <ul>
+        <li>SQLite</li>
+        <li>Git / GitHub</li>
+        <li>Figma / Inkscape</li>
+        <li>Obsidian</li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <strong>Yaklaşımlar</strong>
+      <ul>
+        <li>Privacy-First / Local-First</li>
+        <li>REST API Entegrasyonu</li>
+        <li>Clean Architecture</li>
+        <li>OLED / Dark UI Design</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 İstatistikler & Genel Bakış
+
+<table align="center" border="0">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=999999&icon_color=ffffff" alt="GitHub Stats" width="100%" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=999999" alt="Top Languages" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=KULLANICI_ADIN&theme=dark&hide_border=true&background=00000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=999999&sideLabels=999999&dates=666666" alt="GitHub Streak" width="85%" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🌐 İletişim & Bağlantılar
+
+<p align="left">
+  <a href="mailto:eposta@alanadiniz.com"><img src="https://img.shields.io/badge/E--Posta-181717?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/KULLANICI_ADIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://bashstack.dev"><img src="https://img.shields.io/badge/Website-000000?style=flat&logo=firefox&logoColor=white" alt="Website" /></a>
+</p>
